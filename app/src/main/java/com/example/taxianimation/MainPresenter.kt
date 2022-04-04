@@ -24,5 +24,4 @@ class MainPresenter {
 
         return carPosition
     }
-
 }
